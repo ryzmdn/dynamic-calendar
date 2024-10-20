@@ -24,7 +24,7 @@ Clone this repository using the steps below.
 
 ```bash
   # Clone repository
-  git clone https://github.com/riizkyyrmdnn/dynamic-calendar.git
+  git clone https://github.com/ryzmdn/dynamic-calendar.git
 
   # Change directory folder
   cd dynamic-calendar
